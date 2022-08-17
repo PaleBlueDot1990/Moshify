@@ -1,1 +1,1 @@
-This is a beginner project where I have made a frontend website using HTML5 & CSS3. The project was guided by the online course provided at https://codewithmosh.com .I have built it for production using Parcel. 
+This is a beginner project where I have made a frontend website using HTML5 & CSS3. The project was guided by the online course provided at https://codewithmosh.com .I have built it for production using Parcel and deployed it using netlify.
