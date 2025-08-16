@@ -1,1 +1,7 @@
-This is a beginner project where I have made a frontend website using HTML5 & CSS3. The project was guided by the online course provided at https://codewithmosh.com .I have built it for production using Parcel and deployed it using netlify.
+# HTML, CSS & JS Tutorial Repository
+
+> **Note**: This repository was created to practice making web pages using HTML, CSS & JS
+> It is intended solely for **learning and experimentation** of HTML, CSS & JS, and not for production use.
+> This codebase:  
+> 1. Is **not maintained** or updated for production-readiness.  
+> 2. Exists mostly as a **learning record**.
